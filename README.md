@@ -40,6 +40,6 @@ Driven by results and performance, I bring a solutions-oriented approach to ever
 📈 My GitHub Stats
 🤝 Let's Connect!
 
-📫 Email: ashwinimalviya2211@gmail.com
+📫 Email: malviashwini9422@gmail.com
 
 ✨ LinkedIn: https://www.linkedin.com/in/ashwini-malviya-a72331128
