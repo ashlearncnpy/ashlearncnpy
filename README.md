@@ -25,6 +25,7 @@ Data Pipelines: ETL, Data Lake, Batch & Streaming Processing
 Tools: Docker, Git, Jenkins, Airflow
 
 🔨 What I Do
+
 I specialize in architecting, implementing, and optimizing scalable data pipelines and modern big data platforms with confidence and precision. My focus areas include:
 
 Building robust, end-to-end data workflows covering ingestion, storage, processing, and analytics.
